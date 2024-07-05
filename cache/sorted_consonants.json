@@ -1,0 +1,34 @@
+{
+ "stops":[
+  "p",
+  "c",
+  "k"
+ ],
+ "fricatives":[
+  "s"
+ ],
+ "nasals":[],
+ "liquids":[
+  "r",
+  "l"
+ ],
+ "glides":[],
+ "bilabials":[
+  "p"
+ ],
+ "labiodentals":[],
+ "dentals":[
+  "s",
+  "l"
+ ],
+ "alveolars":[],
+ "postalveolars":[],
+ "palatals":[
+  "c"
+ ],
+ "velars":[
+  "k"
+ ],
+ "uvulars":[],
+ "glottals":[]
+}
